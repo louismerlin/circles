@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/louismerlin/circles/game"
+	"github.com/wakeupcoffee/circles/game"
 )
 
 func main() {
